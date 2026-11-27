@@ -28,7 +28,7 @@ export default function SplashScreen({ onFinish }: SplashScreenProps) {
           </View>
         </View>
 
-        <Text style={styles.title}>Fish<Text style={styles.titleHighlight}>Lens</Text></Text>
+        <Text style={styles.title}>Fish<Text style={styles.titleHighlight}>Qual</Text></Text>
         <Text style={styles.tagline}>Smart Fish Detection & Nutrition AI</Text>
       </View>
 
